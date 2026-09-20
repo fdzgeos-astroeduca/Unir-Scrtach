@@ -1,0 +1,6 @@
+{
+  "name": "Scratch Blocks Matcher",
+  "description": "Aplicación interactiva para emparejar bloques de instrucciones de Scratch con su información correspondiente y ejemplos prácticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
